@@ -96,6 +96,12 @@ header nav a:hover{
     display: block;
 }
 
-.carrossel-filmes{
+#populares-netflix, #filmes, #series, #documentarios{
+    margin-left: 100px;
+    margin-bottom: 10px;
+
+}
+
+.carrossel-principal{
     margin-top: 5px;
 }
