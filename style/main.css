@@ -11,7 +11,7 @@
 /*elementos base*/
 body{
     background: var(--preta);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
     color: white;
 }
 
@@ -57,7 +57,7 @@ header nav a:hover{
 }
 
 .titulo{
-    margin-top: 10%;
+    margin-top: 6%;
     font-size: 40px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -94,4 +94,8 @@ header nav a:hover{
     height: 100%;
     width: 100%;
     display: block;
+}
+
+.carrossel-filmes{
+    margin-top: 5px;
 }
